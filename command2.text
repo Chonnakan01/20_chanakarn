@@ -1,0 +1,7 @@
+kubectl apply -f ชื่อไฟล์ กดtap
+kubectl delete pod client-pot
+kubectl get all
+docker pull imsuriyapi/todo-app:v4
+kubectl logs client 
+kubectl delete all --all ลบทั้งหมด
+kubectl delete deployments ชื่อไฟล์client-deployment
